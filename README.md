@@ -1,4 +1,4 @@
-<h2>Hi, I'm Ishita 👋</h2>
+<h2>Hi, I'm Ishita,</h2>
 
 <p>
 Computer Science sophomore at MIT Manipal, working in Artificial Intelligence with a focus on 
@@ -14,7 +14,7 @@ that combine strong research foundations with real-world applications.
   <li>Research in multimodal learning and self-supervised methods for robust perception systems</li>
   <li>Spatio-temporal modeling using Graph Neural Networks for dynamic real-world data</li>
   <li>Designing AI systems that integrate LLMs with perception and structured data</li>
-  <li>Building <b>LearnVerse</b> — a platform that converts educational content into interactive 3D learning experiences</li>
+  <li>Building <b>LearnVerse</b>, a platform that converts educational content into interactive 3D learning experiences</li>
   <li>Exploring efficient and scalable architectures for real-world deployment</li>
 </ul>
 
@@ -25,14 +25,6 @@ that combine strong research foundations with real-world applications.
 <p>
 Python • PyTorch • TensorFlow • OpenCV • NumPy • scikit-learn <br/>
 AWS (Bedrock, DynamoDB, EC2) • React • Three.js • Git • Linux
-</p>
-
----
-
-<h3>Beyond Tech</h3>
-
-<p>
-I enjoy travel, photography, and fine arts — they influence how I approach creativity and problem-solving.
 </p>
 
 ---
