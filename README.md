@@ -2,8 +2,8 @@
 
 <p>
 Computer Science sophomore at MIT Manipal, working in Artificial Intelligence with a focus on 
-Deep Learning and Computer Vision. I enjoy building intelligent systems that connect research 
-with real-world applications.
+Deep Learning and Computer Vision. I’m particularly interested in building intelligent systems 
+that combine strong research foundations with real-world applications.
 </p>
 
 ---
@@ -11,9 +11,11 @@ with real-world applications.
 <h3>What I'm Currently Working On</h3>
 
 <ul>
-  <li>Exploring machine learning approaches for real-world problems</li>
-  <li>Building AI-driven systems and interactive applications</li>
-  <li>Experimenting at the intersection of research and product</li>
+  <li>Research in multimodal learning and self-supervised methods for robust perception systems</li>
+  <li>Spatio-temporal modeling using Graph Neural Networks for dynamic real-world data</li>
+  <li>Designing AI systems that integrate LLMs with perception and structured data</li>
+  <li>Building <b>LearnVerse</b> — a platform that converts educational content into interactive 3D learning experiences</li>
+  <li>Exploring efficient and scalable architectures for real-world deployment</li>
 </ul>
 
 ---
@@ -21,8 +23,8 @@ with real-world applications.
 <h3>Tools & Technologies</h3>
 
 <p>
-Python • PyTorch • TensorFlow • OpenCV • NumPy <br/>
-AWS • React • Three.js • Git • Linux
+Python • PyTorch • TensorFlow • OpenCV • NumPy • scikit-learn <br/>
+AWS (Bedrock, DynamoDB, EC2) • React • Three.js • Git • Linux
 </p>
 
 ---
